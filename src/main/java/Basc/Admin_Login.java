@@ -19,7 +19,8 @@ public class Admin_Login {
 		driver.manage().window().maximize();
 
 		Thread.sleep(100);
-
+// Cleint changes name i added only. 
+		
 // Username & password scandiweb scandiweb 
 
 		WebElement username = driver.findElement(By.id("username"));
